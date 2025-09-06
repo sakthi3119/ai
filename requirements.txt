@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+transformers
+torch
+scikit-learn
+joblib
+python-multipart
+pydantic
+python-dateutil
+nltk
+sentence-transformers
+sumy
+textstat

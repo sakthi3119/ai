@@ -1,0 +1,8 @@
+[
+    {"title": "Fix payment bug", "description": "Payments failing for VIP users", "priority": "High"},
+    {"title": "Update README", "description": "Add contribution guidelines", "priority": "Low"},
+    {"title": "Customer outage", "description": "Service down in EU region", "priority": "High"},
+    {"title": "Refactor logging", "description": "Clean up noisy logs", "priority": "Medium"},
+    {"title": "Design review", "description": "Prepare screens for review", "priority": "Low"},
+    {"title": "Release prep", "description": "Finish checklist before deploy", "priority": "Medium"}
+    ]
