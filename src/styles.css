@@ -1,0 +1,15 @@
+body { font-family: Inter, system-ui, Arial; background:#f5f7fb; margin:0 }
+.app { max-width: 960px; margin:20px auto; padding:18px }
+.header { display:flex; align-items:center; justify-content:space-between; }
+.card { background:white; border-radius:8px; padding:12px; box-shadow: 0 1px 4px rgba(20,20,40,0.06); margin-bottom:12px }
+.btn { padding:8px 12px; border-radius:6px; border:none; cursor:pointer }
+.btn-primary { background:#2563eb; color:white }
+.small { font-size:0.9rem }
+.task-list { display:flex; flex-direction:column; gap:8px }
+.task { display:flex; justify-content:space-between; padding:8px; border-radius:6px; border:1px solid #eee }
+.metadata { color:#6b7280; font-size:0.85rem }
+textarea { width:100%; min-height:80px }
+.input, select { padding:8px; border-radius:6px; border:1px solid #ddd; width:100% }
+
+
+@media (max-width:600px){ .app { padding:10px } }
